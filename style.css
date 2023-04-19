@@ -1,0 +1,10 @@
+.cabeçalho{background-color: blue;
+display: flex;
+color: red;
+justify-content: space-around;
+padding: 10px;
+align-items: center;
+
+
+
+}
